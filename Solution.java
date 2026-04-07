@@ -20,3 +20,8 @@ class Solution {
         return(sum);
     }
 }
+
+//extend line for UTF 
+//lorem ipsum
+//sudo rm -rf /
+//nah, I'd win
